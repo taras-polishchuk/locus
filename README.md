@@ -29,9 +29,9 @@ A side project I built for myself that turned into a good showcase of what's pos
 
 ---
 
-## My Shopify work
+## Production background — Shopify engineering
 
-I'm a Shopify theme developer — Liquid, custom sections, OS 2.0, JavaScript, SCSS. This project shows the frontend fundamentals I bring to every store I work on.
+This project was built during my Shopify engineering period. Production background: 5+ years across Shopify agency work and media-buying web engineering. Current focus: AI Automation Engineer — multi-agent systems, n8n workflow automation, and production AI hardening. This project shows the frontend fundamentals I bring to that work — clean vanilla JS, Web Audio API, and session state management without a single library.
 
 → Full portfolio: [taras-polishchuk.github.io](https://taras-polishchuk.github.io)  
 → Contact: [poli.taras.shchuk@gmail.com](mailto:poli.taras.shchuk@gmail.com)
